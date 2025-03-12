@@ -13,11 +13,11 @@ This is a simple Python calculator program that allows the user to perform basic
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/AlphaC137/Basic-Python-Calculator.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd <your-project-directory>
+   cd Basic-Python-Calculator
    ```
 3. **Run the Python script**:
    ```bash
